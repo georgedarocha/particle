@@ -1,0 +1,20 @@
+ul {
+	overflow: auto;
+}
+
+ul li {
+	float: left;
+}
+
+ul li:not(:last-child) {
+	margin-right: 2em;
+}
+
+p {
+	text-align: justify;
+}
+
+footer p {
+	text-align: inherit;
+}
+

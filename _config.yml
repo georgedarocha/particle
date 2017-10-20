@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: George Nunes Generalist Developer
+description: Portfolio and contact information of George Nunes Generalist Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: George Nunes
+user_description: Gamer, technophile, perfeccionist and enthusiast of computing, logic, algorithms, puzzles and challenges. At late mid school, when internet connection was dial up, I met mIRC. After trying different Scripts and seeing it's high customization potential, decided to create his own Script and learnt it's scripting language. When the Script was finished, had to learn HTML to publish it. With mid school about to end and determined to dive in the area, applied and pass in Fundação Matias Machline's (former Fundação Nokia de Ensino) exam to study computing along with high school and become a technician. Later went to college at Universidade do Estado do Amazonas (UEA) and graduate in Computer Engineering. Started working as Android apps developer at Samsung Technology Institute (SIDIA) and further made part of Black River Studios' engineering team.
+user_title: Generalist Developer
+email: georgedarocha@gmail.com
+twitter_username: georgedarocha
+github_username: georgedarocha
+facebook_username: georgedarocha
+linkedin_username: georgedarocha
 
 # Google-analytics
 google-analytics:
